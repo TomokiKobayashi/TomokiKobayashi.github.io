@@ -1,4 +1,0 @@
-TomokiKobayashi.github.io
-=========================
-
-TeckNotes
