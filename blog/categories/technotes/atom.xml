@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[TechNotes]]></title>
-  <link href="http://TomokiKobayashi.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: TechNotes | TechNotes]]></title>
+  <link href="http://TomokiKobayashi.github.io/blog/categories/technotes/atom.xml" rel="self"/>
   <link href="http://TomokiKobayashi.github.io/"/>
   <updated>2014-04-03T10:37:37+09:00</updated>
   <id>http://TomokiKobayashi.github.io/</id>
